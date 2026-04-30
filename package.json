@@ -4,6 +4,10 @@
   "description": "Syntax highlighting for the Praia programming language",
   "version": "1.0.0",
   "publisher": "praia-lang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/praia-lang/praia-vscode"
+  },
   "engines": {
     "vscode": "^1.75.0"
   },
