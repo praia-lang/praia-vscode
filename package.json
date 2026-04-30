@@ -2,8 +2,9 @@
   "name": "praia-lang",
   "displayName": "Praia",
   "description": "Syntax highlighting for the Praia programming language",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "praia-lang",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/praia-lang/praia-vscode"
