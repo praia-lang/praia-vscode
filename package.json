@@ -2,7 +2,7 @@
   "name": "praia-lang",
   "displayName": "Praia",
   "description": "Syntax highlighting for the Praia programming language",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "praia-lang",
   "icon": "icon.png",
   "repository": {

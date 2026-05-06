@@ -209,7 +209,7 @@
         },
         {
           "name": "support.class.praia",
-          "match": "\\b(Lock|Channel)\\b"
+          "match": "\\b(Lock|Channel|SharedMap|CancellationToken)\\b"
         }
       ]
     },
