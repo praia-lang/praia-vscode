@@ -197,7 +197,7 @@
       "patterns": [
         {
           "name": "support.function.praia",
-          "match": "\\b(print|len|push|pop|type|str|num|fromCharCode|sort|filter|map|each|keys|values|reduce|any|all|flatMap|unique|zip|enumerate|groupBy|findIndex|flatten|loadNative)\\b"
+          "match": "\\b(print|len|push|pop|type|str|num|int|fromCharCode|sort|filter|map|each|keys|values|reduce|any|all|flatMap|unique|zip|enumerate|groupBy|findIndex|flatten|loadNative)\\b"
         }
       ]
     },
@@ -209,7 +209,7 @@
         },
         {
           "name": "support.class.praia",
-          "match": "\\b(Lock|Channel|SharedMap|CancellationToken)\\b"
+          "match": "\\b(Lock|Queue|Channel|SharedMap|CancellationToken)\\b"
         }
       ]
     },

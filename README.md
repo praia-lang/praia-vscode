@@ -4,7 +4,7 @@ Syntax highlighting and editor support for the [Praia](https://praia.sh) program
 
 ## What is Praia?
 
-Praia is a small, modern scripting language for everyday tasks — servers, scripts, automation. It has a clean syntax, async/await, a useful standard library out of the box (HTTP, JSON, SQLite, crypto, regex), and a single-binary install. See [praia.sh](https://praia.sh) for the language guide.
+Praia is a small, modern scripting language for everyday tasks — servers, scripts, automation. It has a clean syntax, async/await, a useful standard library out of the box (HTTP, JSON, SQLite, crypto, regex), and a single-binary install. See [praia.sh](https://praia.sh) for documentation.
 
 ```praia
 use "router"
@@ -32,7 +32,7 @@ app.listen(8080)
 - Shebang detection (`#!/usr/bin/env praia`)
 - Bracket matching, auto-closing pairs, smart indent
 - Region folding via `// region` / `// endregion`
-- Stdlib-aware: highlights for namespaces (`sys`, `http`, `json`, `time`, …) and concurrency primitives (`Lock`, `Channel`, `SharedMap`, `CancellationToken`)
+- Stdlib-aware: highlights for namespaces (`sys`, `http`, `json`, `time`, …) and concurrency primitives (`Lock`, `Queue`, `SharedMap`, `CancellationToken`)
 
 ## Recommended settings
 
