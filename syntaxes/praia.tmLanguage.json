@@ -205,11 +205,11 @@
       "patterns": [
         {
           "name": "support.class.praia",
-          "match": "\\b(sys|http|json|yaml|net|bytes|crypto|random|time|math|base64|path|url|futures|sqlite)\\b"
+          "match": "\\b(base64|bytes|crypto|fmt|fs|http|json|math|net|path|plist|random|secrets|sqlite|sys|time|unicode|url|xml|yaml|zlib)\\b"
         },
         {
           "name": "support.class.praia",
-          "match": "\\b(Lock|Queue|Channel|SharedMap|CancellationToken)\\b"
+          "match": "\\b(CancellationToken|Channel|Lock|Queue|SharedMap)\\b"
         }
       ]
     },
