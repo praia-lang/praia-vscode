@@ -344,6 +344,10 @@
     "punctuation": {
       "patterns": [
         {
+          "name": "punctuation.section.set.begin.praia",
+          "match": "#\\{"
+        },
+        {
           "name": "punctuation.praia",
           "match": "[{}()\\[\\],;:]"
         },
